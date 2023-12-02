@@ -1,0 +1,52 @@
+.header-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 6rem;
+  margin-right: 1rem;
+  margin-left: 1rem;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+
+.logo-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  max-width: 45px;
+}
+
+.company-name {
+  margin-left: 0.5rem;
+}
+
+.navbar-div {
+  min-width: 400px;
+  height: 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+  padding-right: 3rem;
+  padding-left: 3rem;
+  border-radius: 3rem;
+  border: 1px solid black;
+}
+
+.template-btn {
+  height: 3rem;
+  width: 7rem;
+  font-weight: bold;
+  border: none;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.3);
+  background-color: white;
+  border-radius: 0.7rem;
+}
