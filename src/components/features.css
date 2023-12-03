@@ -1,0 +1,139 @@
+.section-2 {
+  min-height: calc(100vh - 14rem);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4.5rem;
+}
+
+.fire-icon {
+  margin-right: 0.3rem;
+  font-size: 1.2rem;
+}
+
+.sc2-text1 {
+  border: none;
+  border-radius: 3.9px;
+  box-shadow: 0 0 0 0.5px rgba(0, 0, 0, 0.2);
+  background-color: white;
+  color: rgb(152, 80, 219);
+  font-size: 0.8rem;
+  font-weight: bold;
+  width: 10rem;
+  height: 1rem;
+  padding: 0.35rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sc2-text2 {
+  width: 120rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 6rem;
+  margin-bottom: 0.5rem;
+}
+
+.sc2-hlght-text {
+  color: rgb(254, 129, 98);
+  font-weight: bold;
+}
+
+.sc3-text3 {
+  color: rgb(118, 117, 117);
+  width: 38rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  margin-bottom: 2rem;
+}
+
+.features-div-main1 {
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main1-left {
+  width: 564px;
+  height: 446px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main1-left-text {
+  width: 30rem;
+  padding: 1rem;
+  font-size: 2rem;
+  text-align: start;
+}
+
+.main1-right {
+  width: 564px;
+  height: 446px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.features-img1 {
+  width: 100%;
+  object-fit: contain;
+}
+
+.features-img1-content {
+  width: 100%;
+  display: flex;
+  text-align: left;
+  margin-left: 4rem;
+  flex-direction: column;
+  justify-content: left;
+  margin-bottom: 2rem;
+}
+
+.features-img1-text2 {
+  color: rgb(118, 117, 117);
+}
+
+.main1-left,
+.main1-right {
+  background-color: white;
+  border: none;
+  border-radius: 1rem;
+  box-shadow: 0 0 20px 10px rgba(22, 22, 22, 0.1);
+}
+
+.features-div-main2 {
+  width: 70%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 5rem;
+  padding: 1rem;
+}
+
+.main2-div1,
+.main2-div2,
+.main2-div3 {
+  background-color: white;
+  border: none;
+  border-radius: 1rem;
+  width: 20rem;
+  box-shadow: 0 0 20px 10px rgba(22, 22, 22, 0.1);
+}
+
+.features-img2-content {
+  width: 100%;
+  display: flex;
+  text-align: left;
+  font-size: 1rem;
+  margin-left: 1rem;
+  flex-direction: column;
+  justify-content: left;
+  margin-bottom: 2rem;
+}

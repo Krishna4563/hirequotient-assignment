@@ -92,4 +92,6 @@
 .dashboard-img {
   width: 100%;
   border-radius: 1.5rem;
+  border: none;
+  box-shadow: 0 0 15px 5px rgba(44, 44, 44, 0.2);
 }
